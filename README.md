@@ -1,4 +1,6 @@
 # SustainEnergyProject
+(access project on master branch)
+
 Instructions for Users:
 Fristly, use the top right account drop down and select register where you can create your account.
 The home page provides you with information on Sustain Energy.  Access the different pages by using the navigation bar along the top.
